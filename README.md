@@ -25,6 +25,7 @@ Windows SDK Version：10.0.17763.0
 ## Screenshots
 
 #### Running
+![image-20250317144633049](https://github.com/user-attachments/assets/e4cca7fd-dcd2-48c0-96c2-93fa1066137f)
 
-![image-20250317144633049](D:\MyCode\vsproject\ThreadPool\README.assets\image-20250317144633049.png)
+
 
