@@ -1,0 +1,5 @@
+﻿  main.cpp
+  mythreadpool.cpp
+d:\kingsware\vsproject\threadpool\threadpool\mythreadpool.cpp(8): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  ThreadPool.vcxproj -> D:\KINGSWARE\vsproject\ThreadPool\Debug\ThreadPool.exe
